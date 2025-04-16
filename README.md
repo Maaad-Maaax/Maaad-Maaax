@@ -37,4 +37,9 @@
 
 Стек: Python, tkinter, pyinstaller
 
+## :heavy_check_mark: [Yolo-Detection](https://github.com/Maaad-Maaax/Yolo-Detection)
+Провел исследовательскую работу направленую на изучение потенциала передовой модели компьютерного зрения YOLOv12.
+
+Стек: Python, YOLO, roboflow, colab
+
 ***
